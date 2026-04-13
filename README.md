@@ -67,5 +67,5 @@ Das Image wird automatisch von GitHub Actions gebaut und in die **GitHub Contain
 
 ## CI/CD mit GitHub Actions
 
-- Ein **CI-Workflow** installiert bei jedem Push die Python-Abhängigkeiten und führt Tests aus. [file:2]  
-- Ein weiterer Workflow baut automatisch ein Docker-Image und pusht es in die GitHub Container Registry (`ghcr.io`). [file:2][web:22]
+- Ein **CI-Workflow** installiert bei jedem Push die Python-Abhängigkeiten und führt Tests aus. 
+- Ein weiterer Workflow baut automatisch ein Docker-Image und pusht es in die GitHub Container Registry (`ghcr.io`).
